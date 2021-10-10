@@ -1,33 +1,24 @@
+REST API Aplikasi Absensi Pegawai Berbasis Sistem Operasi Android (PHP)
+
 # Slim Framework 3 Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
-## Install the Application
+# Panduan Video
+Bagian #12 Menginstall Slim Micro Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
-Run this command from the directory in which you want to install your new Slim Framework application.
+https://youtu.be/X6ne3ZK58ag
 
-    php composer.phar create-project slim/slim-skeleton [my-app-name]
+Bagian #13 Mengkonfigurasi Slim Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
-Replace `[my-app-name]` with the desired directory name for your new application. You'll want to:
+https://youtu.be/QBANK0718S8
 
-* Point your virtual host document root to your new application's `public/` directory.
-* Ensure `logs/` is web writeable.
+Bagian #14 Membuat Api Key Di Database | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
-To run the application in development, you can run these commands 
+https://youtu.be/g5N2FOZtlAg
 
-	cd [my-app-name]
-	php composer.phar start
-	
-Or you can use `docker-compose` to run the app with `docker`, so you can run these commands:
+Bagian #15 Menjalankan RestAPI CRUD di Insomnia | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
-         cd [my-app-name]
-	 docker-compose up -d
-After that, open `http://0.0.0.0:8080` in your browser.
-
-Run this command in the application directory to run the test suite
-
-	php composer.phar test
-
-That's it! Now go build something cool.
+https://youtu.be/8u5aFmZARN4
