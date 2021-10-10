@@ -6,6 +6,10 @@ Use this skeleton application to quickly setup and start working on a new Slim F
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
+https://github.com/slimphp/Slim
+
+slimframework.com
+
 # Panduan Video
 Bagian #12 Menginstall Slim Micro Framework Versi 3 | Aplikasi Absensi Berbasis Android SQLite dan MySQL
 
